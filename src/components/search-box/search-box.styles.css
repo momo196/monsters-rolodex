@@ -1,0 +1,11 @@
+.search {
+    border: 3px solid #00B4CC;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+    padding: 10px;
+    width: 200px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  
