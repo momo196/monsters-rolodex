@@ -32,7 +32,7 @@ render (  ) {
   <div className="App">
     <h1>Monster Rolodex</h1>
     <SearchBox 
-    placeholder="search montser" 
+    placeholder="search for  montser" 
     handleChange = { this.handleChange} />
     <CardList  monsters = {filtredMonsters}/>
   </div>
